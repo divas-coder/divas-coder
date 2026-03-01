@@ -14,19 +14,37 @@
 ## 👨‍🔬 About Me
 ```r
 scientist <- list(
-  name     = "divas-coder",
-  role     = "Bioinformatics Professional",
-  focus    = c("Multi-omics", "RNA-Seq", "Genomics", "Data Analysis"),
-  tools    = c("R", "Bioconductor", "DESeq2", "ggplot2", "Python"),
-  passion  = "Turning biological data into meaningful insights"
+  name         = "Dr. Divya Mishra",
+  role         = "Postdoctoral Fellow | Senior Bioinformatician",
+  location     = c("Milan, Italy", "Calgary, Canada"),
+
+  current_work = c(
+    "Immunogenomics @ Humanitas Research Hospital",
+    "Multi-omics pipelines @ BioAro Inc."
+  ),
+
+  expertise    = c(
+    "RNA-Seq", "scRNA-seq", "WGS/WES",
+    "Metagenomics", "MOFA2 Integration",
+    "Biomarker Discovery", "Survival Analysis"
+  ),
+
+  tools        = c("R", "Python", "DESeq2", "Seurat",
+                   "clusterProfiler", "Nextflow", "Docker"),
+
+  publications = "12 peer-reviewed papers incl. Nature Immunology (2025)",
+
+  looking_for  = "Faculty positions | Research collaborations",
+
+  fun_fact     = "I turn messy omics data into clinical insights"
 )
 ```
 
-- 🔬 Working in **Bioinformatics & Computational Biology**
-- 🧬 Specialised in **RNA-Seq analysis & Multi-omics data**
-- 📊 Love building **data visualisation pipelines**
-- 🌱 Currently expanding into **Machine Learning for Genomics**
-- 💼 Open to **exciting opportunities & collaborations**
+- 🔬 Postdoc at **Humanitas Research Hospital, Milan**
+- 🧬 Published in **Nature Immunology** (2025)
+- 📊 12+ peer-reviewed papers in genomics & oncology
+- 🌍 Working across **Italy · Canada · India**
+- 💼 Open to **faculty positions & collaborations**
 
 ---
 
@@ -39,12 +57,16 @@ scientist <- list(
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nextflow](https://img.shields.io/badge/Nextflow-3EAA5E?style=for-the-badge&logoColor=white)
 
 ### Bioinformatics Expertise
 ![Bioconductor](https://img.shields.io/badge/Bioconductor-1E8449?style=for-the-badge&logoColor=white)
 ![DESeq2](https://img.shields.io/badge/DESeq2-E74C3C?style=for-the-badge&logoColor=white)
 ![ggplot2](https://img.shields.io/badge/ggplot2-3498DB?style=for-the-badge&logoColor=white)
 ![Seurat](https://img.shields.io/badge/Seurat-8E44AD?style=for-the-badge&logoColor=white)
+![MOFA2](https://img.shields.io/badge/MOFA2-FF6B35?style=for-the-badge&logoColor=white)
+![clusterProfiler](https://img.shields.io/badge/clusterProfiler-1E8449?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -71,15 +93,15 @@ scientist <- list(
 
 ## 📂 Featured Projects
 
-### 🧬 [Multiomics Analysis Pipeline](https://github.com/divas-coder/multiomics)
-> Comprehensive R-based pipeline for multi-omics data integration and RNA-Seq analysis
+### 🧬 [Multiomics Analysis — HCC](https://github.com/divas-coder/multiomics)
+> Integrative transcriptomic and microbiome analysis in Hepatocellular Carcinoma
 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/divas-coder/multiomics?style=flat-square&color=00FF88)
 
-- 📌 RNA-Seq differential expression analysis
-- 📌 Multi-omics data integration  
-- 📌 Publication-ready visualisations using ggplot2
+- 📌 DESeq2 differential expression + pathway enrichment (GO/KEGG/Reactome)
+- 📌 Survival analysis using TCGA-LIHC clinical data
+- 📌 MOFA2 multi-omics integration + microbiome correlation
 
 ---
 
