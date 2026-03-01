@@ -3,7 +3,7 @@
 **Turning complex omics data into meaningful biological insights**
 
 - 🔬 Postdoctoral Fellow at **Humanitas Research Hospital, Milan, Italy**
-- 💼 Senior Bioinformatician at **BioAro Inc., Calgary, Canada**
+- 💼 Former Senior Bioinformatician at **BioAro Inc., Calgary, Canada**
 - 🧬 Specialised in transcriptomics, multi-omics integration, and genomics data analysis in R
 - 📄 Published in **Nature Immunology** (2025) · 12+ peer-reviewed papers
 - 🌍 Working across Italy · Canada · India
